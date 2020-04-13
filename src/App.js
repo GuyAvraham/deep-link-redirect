@@ -14,7 +14,7 @@ function App() {
             Moving to KB-PURE Iphone App
           </p>
           <a className="App-link" href="kbp://">
-            לחצי כאן כדיי לחזור לאפליקציה
+            לחצ/י כאן כדיי לחזור לאפליקציה
           </a>
         </header>
       </div>
@@ -29,7 +29,7 @@ function App() {
             Go To KB-PURE Android App
           </p>
           <a className="App-link" href="kbp://">
-            לחצי כאן כדיי לחזור לאפליקציה
+            לחצ/י כאן כדיי לחזור לאפליקציה
           </a>
         </header>
       </div>

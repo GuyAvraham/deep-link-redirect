@@ -7,7 +7,9 @@ https://docs.expo.io/workflow/linking/#linking-to-your-app
 
 <h2> How it works: </h2>
 - For IOS it will be redirected on page load (with popup for user approval).
+
 - For Android the user will have to click a button (href).
+https://youtu.be/iFwm8fYxUQg
 
 <h2>Deployment</h2>
 If you already have existing aws account, I recommend auto deploying this kind of React web app with : <a href="console.aws.amazon.com/amplify"> aws-amplify </a>

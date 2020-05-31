@@ -10,10 +10,11 @@ https://docs.expo.io/workflow/linking/#linking-to-your-app
 - For Android the user will have to click a button (href).
 
 <h2>Deployment</h2>
-If you already have existing aws account, I recommend auto deploying this kind of React web app with aws-amplify: console.aws.amazon.com/amplify/
+If you already have existing aws account, I recommend auto deploying this kind of React web app with : <a href="console.aws.amazon.com/amplify"> aws-amplify </a>
+
 It should be self explanatory to define the following with no more then 10 minutes:
-1. Connect your Github repo.
-2. Define auto deploy on push to master branch.
-3. Define custom domain so you user will understand what is the purpose of the web page.
+- Connect your Github repo.
+- Define auto deploy on push to master branch.
+- Define custom domain so you user will understand what is the purpose of the web page.
 
 There you go, now you have a web page with https prefix you can define for your bot for when a user asks to “go back to app”.

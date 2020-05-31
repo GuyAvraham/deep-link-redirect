@@ -3,3 +3,4 @@
 - For a use case where you know they already have on their phones.
 - Not for when you want navigation to the App/Play store.
 
+https://docs.expo.io/workflow/linking/#linking-to-your-app

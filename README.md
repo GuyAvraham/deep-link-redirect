@@ -6,8 +6,8 @@
 https://docs.expo.io/workflow/linking/#linking-to-your-app
 
 <h2> How it works: </h2>
-- For IOS it will be redirected on page load (with popup for user approval).
 
+- For IOS it will be redirected on page load (with popup for user approval).
 - For Android the user will have to click a button (href).
 https://youtu.be/iFwm8fYxUQg
 

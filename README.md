@@ -1,3 +1,4 @@
+- https://medium.com/@guyavraham/how-to-navigate-from-mobile-app-to-messenger-bot-chat-and-back-to-the-app-d3ff057b594e
 - Example for if you want to redirect customers back into an app.
 - Allows you to have https url that creates deep link implementation by IOS or Android
 - For a use case where you know they already have on their phones.
